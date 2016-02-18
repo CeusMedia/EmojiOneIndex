@@ -1,0 +1,27 @@
+#category-sprites span {
+	width: 32px;
+	height: 32px;
+	margin: 10px;
+	}
+
+#emoji-details {}
+
+#emoji-details object {
+	display: block;
+	width: 280px;
+	height: 280px;
+
+	}
+
+
+
+#emoji-details dl dt {
+	width: 120px;
+	}
+#emoji-details dl dd {
+	margin-left: 140px;
+	}
+#emoji-details dl dd span.unicode {
+	font-size: 1.2em;
+	}
+
